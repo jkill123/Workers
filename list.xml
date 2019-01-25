@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Company xmlns="person">
+  <Person id="1">
+    <name xmlns="">Pinchuk</name>
+    <surname xmlns="">Evhen.O</surname>
+    <DateBirthday xmlns="">01-02-1992</DateBirthday>
+    <DateStartWorking xmlns="">02-01-2019</DateStartWorking>
+    <type xmlns="" />
+  </Person>
+  <Person id="2">
+    <name xmlns="">Ainchuk</name>
+    <surname xmlns="">Evhen.O</surname>
+    <DateBirthday xmlns="">02-02-1992</DateBirthday>
+    <DateStartWorking xmlns="">03-01-2019</DateStartWorking>
+    <type xmlns="" />
+  </Person>
+  <Person id="3">
+    <name xmlns="">Binchuk</name>
+    <surname xmlns="">Evhen.O</surname>
+    <DateBirthday xmlns="">03-02-1992</DateBirthday>
+    <DateStartWorking xmlns="">04-01-2019</DateStartWorking>
+    <type xmlns="" />
+  </Person>
+  <Person id="4">
+    <name xmlns="">Cinchuk</name>
+    <surname xmlns="">Evhen.O</surname>
+    <DateBirthday xmlns="">04-02-1992</DateBirthday>
+    <DateStartWorking xmlns="">05-01-2019</DateStartWorking>
+    <type xmlns="" />
+  </Person>
+  <Person id="5">
+    <name xmlns="">Dinchuk</name>
+    <surname xmlns="">Evhen.O</surname>
+    <DateBirthday xmlns="">05-02-1992</DateBirthday>
+    <DateStartWorking xmlns="">06-01-2019</DateStartWorking>
+    <type xmlns="" />
+  </Person>
+</Company>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Person xmlns="person">
+  <Person id="4 ">
+    <name xmlns="">Dinchuk</name>
+    <surname xmlns="">Evhen O</surname>
+    <DateBirthday xmlns="">05-02-1992</DateBirthday>
+    <DateStartWorking xmlns="">06-01-2019</DateStartWorking>
+  </Person>
+</Person>
